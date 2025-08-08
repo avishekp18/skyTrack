@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/skyTrack/static/css/main.0ccf701f.css",
+    "main.js": "/skyTrack/static/js/main.7d7e1cdc.js",
+    "static/media/SecondaSoft-Thin.otf": "/skyTrack/static/media/SecondaSoft-Thin.c893b8cf12696fcd671b.otf",
+    "static/media/SecondaSoft-BlackIt.otf": "/skyTrack/static/media/SecondaSoft-BlackIt.c68d8faa6aebfc0ab911.otf",
+    "static/media/SecondaSoft-Light.otf": "/skyTrack/static/media/SecondaSoft-Light.6961a16cd539c76ac68c.otf",
+    "static/media/SecondaSoft-Medium.otf": "/skyTrack/static/media/SecondaSoft-Medium.21b79f495f957d02aa83.otf",
+    "static/media/SecondaSoft-Bold.otf": "/skyTrack/static/media/SecondaSoft-Bold.1c7f1f344d4a8e53809e.otf",
+    "static/media/SecondaSoft-Black.otf": "/skyTrack/static/media/SecondaSoft-Black.85f57643b25b37650d5f.otf",
+    "static/media/SecondaSoft-Regular.otf": "/skyTrack/static/media/SecondaSoft-Regular.3a8b60c87ad82f52a15a.otf",
+    "static/media/temperature.svg": "/skyTrack/static/media/temperature.0e42ec977c8af7ad4f3a33cfc31dfb52.svg",
+    "static/media/wind.svg": "/skyTrack/static/media/wind.5a6b153fc9faf85acb23d229a948c0b8.svg",
+    "static/media/close.svg": "/skyTrack/static/media/close.4b1cc5d063959cf86b7849aef0c24c63.svg",
+    "static/media/menu.svg": "/skyTrack/static/media/menu.773d1f3d335d2a46203de2be7f4f4e19.svg",
+    "static/media/humidity.svg": "/skyTrack/static/media/humidity.d71469ad5e29e7e2f3366be21f700a5c.svg",
+    "index.html": "/skyTrack/index.html",
+    "main.0ccf701f.css.map": "/skyTrack/static/css/main.0ccf701f.css.map",
+    "main.7d7e1cdc.js.map": "/skyTrack/static/js/main.7d7e1cdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ccf701f.css",
+    "static/js/main.7d7e1cdc.js"
+  ]
+}
