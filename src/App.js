@@ -1,0 +1,20 @@
+// src/App.jsx
+import React from "react";
+import { Route, Routes } from "react-router-dom";
+import { Navbar } from "./components";
+import Home from "./pages/Home";
+
+function App() {
+  return (
+    <div className="scroll-smooth">
+      {" "}
+      {/* Enable smooth scrolling globally */}
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </div>
+  );
+}
+
+export default App;
