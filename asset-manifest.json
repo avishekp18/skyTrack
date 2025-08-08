@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/skyTrack/static/css/main.6d65a4b1.css",
-    "main.js": "/skyTrack/static/js/main.077a6912.js",
+    "main.css": "/skyTrack/static/css/main.056dd28c.css",
+    "main.js": "/skyTrack/static/js/main.b3478a8f.js",
     "static/media/SecondaSoft-Thin.otf": "/skyTrack/static/media/SecondaSoft-Thin.c893b8cf12696fcd671b.otf",
     "static/media/SecondaSoft-BlackIt.otf": "/skyTrack/static/media/SecondaSoft-BlackIt.c68d8faa6aebfc0ab911.otf",
     "static/media/SecondaSoft-Light.otf": "/skyTrack/static/media/SecondaSoft-Light.6961a16cd539c76ac68c.otf",
@@ -15,11 +15,11 @@
     "static/media/menu.svg": "/skyTrack/static/media/menu.773d1f3d335d2a46203de2be7f4f4e19.svg",
     "static/media/humidity.svg": "/skyTrack/static/media/humidity.d71469ad5e29e7e2f3366be21f700a5c.svg",
     "index.html": "/skyTrack/index.html",
-    "main.6d65a4b1.css.map": "/skyTrack/static/css/main.6d65a4b1.css.map",
-    "main.077a6912.js.map": "/skyTrack/static/js/main.077a6912.js.map"
+    "main.056dd28c.css.map": "/skyTrack/static/css/main.056dd28c.css.map",
+    "main.b3478a8f.js.map": "/skyTrack/static/js/main.b3478a8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d65a4b1.css",
-    "static/js/main.077a6912.js"
+    "static/css/main.056dd28c.css",
+    "static/js/main.b3478a8f.js"
   ]
 }
