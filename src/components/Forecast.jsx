@@ -35,8 +35,8 @@ const Forecast = ({ data, title }) => {
 				{forecastItems.map((item, idx) => (
 					<div
 						key={idx}
-						className="sidebarr bg-gray-800/90 backdrop-blur-md rounded-2xl p-4 sm:p-6 shadow-md hover:shadow-lg transition-all duration-300 animate-[fadeIn_0.5s_ease-out] delay-[100ms]"
-						style={{ animationDelay: `${idx * 100}ms` }} // Staggered animation
+						className="sidebarr bg-gray-800/90 backdrop-blur-md rounded-2xl p-4 sm:p-6 shadow-md hover:shadow-lg transition-all duration-300 animate-[fadeIn_0.5s_ease-out]"
+						style={{ animationDelay: `${idx * 100}ms` }}
 					>
 						<p className="text-gray-400 font-light text-sm sm:text-base text-center">
 							{item.day}
@@ -45,7 +45,7 @@ const Forecast = ({ data, title }) => {
 							{item.temp}°C
 						</p>
 						<img
-							src={`icons/${item.icon}.svg`}
+							src={`http://openweathermap.org/img/wn/${item.icon}@2x.png`}
 							alt={item.description}
 							className="w-12 h-12 mx-auto my-2"
 						/>
@@ -54,6 +54,7 @@ const Forecast = ({ data, title }) => {
 						</p>
 					</div>
 				))}
+
 			</div>
 		</div>
 	);
